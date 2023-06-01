@@ -15,6 +15,7 @@ Extract the contents of the ZIP file to a local directory.
 Open a C++ compatible IDE or compiler, such as Code::Blocks.
 Open the main.cpp file located in the extracted directory.
 Compile and run the code using the IDE or compiler.
+
 Usage
 Once you have successfully compiled and run the code, you can start using the Simple Food Ordering System. The system will prompt you with a menu of available food items. Follow the on-screen instructions to add items to the cart, specify quantities, and generate an order summary.
 
